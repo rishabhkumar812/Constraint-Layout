@@ -12,8 +12,7 @@ Screenshots for different screens
 
 [![ss1.jpg](https://i.postimg.cc/x11FCkgt/ss1.jpg)](https://postimg.cc/F7wxCHML)
 
-[![ss1.jpg](https://i.postimg.cc/x11FCkgt/ss1.jpg)](https://postimg.cc/F7wxCHML)
-
+[![ss2.jpg](https://i.postimg.cc/Y2Y5C07b/ss2.jpg)](https://postimg.cc/xqjxs0cz)
 
 2560*1800 xdpi
 
