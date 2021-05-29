@@ -17,7 +17,7 @@ It is XML code on Android Studio.
 
 <h3>(2560*1800 xdpi)</h3>
 
-<div class="col">
+<div>
       <img src="https://i.postimg.cc/ZRzwGYXQ/ss3.jpg" width="400" title="UI">
       <img src="(https://i.postimg.cc/G2PXdwCm/ss4.jpg" width="400" title="Constraints">     
 </div>
