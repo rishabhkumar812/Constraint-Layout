@@ -18,10 +18,12 @@ It is XML code on Android Studio.
 <h3>(2560*1800 xdpi)</h3>
 
 <div>
-      <img src="https://i.postimg.cc/ZRzwGYXQ/ss3.jpg" width="400" title="UI">
-      <img src="(https://i.postimg.cc/G2PXdwCm/ss4.jpg" width="400" title="Constraints">     
+      <img src="https://i.postimg.cc/ZRzwGYXQ/ss3.jpg" width="600" title="UI">
 </div>
 
+<div>
+      <img src="(https://i.postimg.cc/G2PXdwCm/ss4.jpg" width="600" title="Constraints">     
+</div>
 
 It uses flexible sizes for various widgets inside UI. This gives an advantage of flexible UI for screens of various dimensions.
 Refer it's code [here](https://github.com/rishabhkumar812/Constraint-Layout/blob/main/activity_main.xml).
