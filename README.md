@@ -22,7 +22,7 @@ It is XML code on Android Studio.
 </div>
 
 <div>
-      <img src="(https://i.postimg.cc/G2PXdwCm/ss4.jpg" width="600" title="Constraints">     
+      <img src="https://i.postimg.cc/G2PXdwCm/ss4.jpg" width="600" title="Constraints">     
 </div>
 
 It uses flexible sizes for various widgets inside UI. This gives an advantage of flexible UI for screens of various dimensions.
